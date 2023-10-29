@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://oriochain.netlify.app" target='_blank'>
+  <a href="#" target='_blank'>
     <img src="/assets/images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
